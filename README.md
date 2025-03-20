@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @kristoferellstrom
 - 👀 I’m interested in music and programming
-- 🌱 I’m currently learning html/css
